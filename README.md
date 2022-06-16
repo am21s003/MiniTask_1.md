@@ -1,3 +1,3 @@
 # Haptic Feedback Joystick with Arduino [Click Here](https://makersportal.com/blog/haptic-feedback-joystick-with-arduino).
-##
-Haptic technology facilitates investigation of how the human sense of touch works by allowing the creation of controlled haptic virtual objects.
+Haptic technology facilitates investigation of how the human sense of touch works by allowing the creation of controlled haptic virtual objects.In the human hand the submodalities of touch are sensed by four types of mechanoreceptors. Specific tactile sensations occur when distinct types of receptors are activated. Firing of all four receptors produces the sensation of contact with an object. Selective activation of Merkel cells and Ruffini endings produces sensations of steady pressure on the skin above the receptor. When the same patterns of firing occur only in Meissner's and Pacinian corpuscles, the tingling sensation of vibration is perceived.
+
